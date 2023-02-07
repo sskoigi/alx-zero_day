@@ -1,0 +1,7 @@
+git branch
+git push -u origin <branch>
+git commit -m
+git add .
+git push
+git checkout
+git log
